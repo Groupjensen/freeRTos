@@ -1,4 +1,4 @@
- My FreeRTOS Journey
+My FreeRTOS Journey
 
 Description
 
@@ -121,4 +121,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Acknowledgments
 
 Special thanks to Jensen Yrkeshögskolan and the FreeRTOS community for the resources and support that made this project possible.
-
