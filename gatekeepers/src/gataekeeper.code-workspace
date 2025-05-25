@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "semaphoreCounting",
+			"path": "../../semaphoreCounting"
+		},
+		{
+			"name": "mutex",
+			"path": "../../mutex"
+		},
+		{
+			"name": "gatekeepers",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
